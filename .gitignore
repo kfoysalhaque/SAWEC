@@ -1,0 +1,5 @@
+*.h5
+Facial_Recognition/Test_Data/
+Stitched_video/
+Segmentation_Performance/val_data/
+
