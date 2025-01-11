@@ -1,8 +1,25 @@
 # SAWEC
 
-This is the implementation of the paper [SAWEC: Sensing-Assisted Wireless Edge Computing](https://arxiv.org/abs/2402.10021). The repository shares both the datasets and the source code of **SAWEC.**
+This is the implementation of the paper [SAWEC: Sensing-Assisted Wireless Edge Computing](https://arxiv.org/abs/2402.10021) and [
+Integrated Sensing and Communication for Efficient Edge Computing](https://ieeexplore.ieee.org/document/10770523). The repository shares both the datasets and the source code of **SAWEC.**
 
-If you find the project useful and you use this code, please cite our paper:
+If you find the project useful and you use this code, please cite our papers:
+
+```
+
+
+@inproceedings{haque2024integrated,
+  title={Integrated Sensing and Communication for Efficient Edge Computing},
+  author={Haque, Khandaker Foysal and Meneghello, Francesca and Restuccia, Francesco},
+  booktitle={2024 20th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)},
+  pages={611--614},
+  year={2024},
+  organization={IEEE}
+}
+
+```
+
+and 
 
 ```
 
