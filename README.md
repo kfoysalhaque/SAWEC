@@ -6,8 +6,6 @@ Integrated Sensing and Communication for Efficient Edge Computing](https://ieeex
 If you find the project useful and you use this code, please cite our papers:
 
 ```
-
-
 @inproceedings{haque2024integrated,
   title={Integrated Sensing and Communication for Efficient Edge Computing},
   author={Haque, Khandaker Foysal and Meneghello, Francesca and Restuccia, Francesco},
@@ -22,7 +20,6 @@ If you find the project useful and you use this code, please cite our papers:
 and 
 
 ```
-
 @article{haque2024sawec,
   title={SAWEC: Sensing-Assisted Wireless Edge Computing},
   author={Haque, Khandaker Foysal and Meneghello, Francesca and Karim, Md Ebtidaul and Restuccia, Francesco},
